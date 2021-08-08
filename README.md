@@ -1,2 +1,2 @@
-# MSDS600
+# Intro MS Data Science Fun
  
